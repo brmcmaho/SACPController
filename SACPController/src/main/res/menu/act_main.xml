@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.ucsd.e4e.sacpcontroller.controller.ActController" >
+    <item android:id="@+id/menu_map_toggle"
+        android:title="Map/Console"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>
